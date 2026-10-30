@@ -1,0 +1,22 @@
+# 本机浏览器配置（含登录 Cookie，绝对不要提交）
+edge-profile/
+edge-profile-*/
+profile_dir.txt
+
+# 个人课程链接（含 enc 参数）
+course_url.txt
+
+# 日志与截图
+*.log
+shot_*.png
+*.tmp
+
+# 密钥
+*.key
+.env
+config.local.*
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
